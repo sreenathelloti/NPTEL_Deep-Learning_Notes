@@ -1,1 +1,1 @@
-# NPTEL_Deep-Learning_Notes
+# Deep Learning Lecture material(NPTEL-IITM)
